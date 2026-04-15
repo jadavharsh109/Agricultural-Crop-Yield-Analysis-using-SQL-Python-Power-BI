@@ -1,0 +1,2 @@
+# Agricultural-Crop-Yield-Analysis-using-SQL-Python-Power-BI
+A data analysis project focused on exploring agricultural crop production data to identify patterns in yield, production, and cultivated area. This project uses SQL, Python, Excel, and Power BI to perform data cleaning, exploratory data analysis (EDA), and visualization, providing insights for better agricultural planning and decision-making
